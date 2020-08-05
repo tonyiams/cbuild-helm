@@ -3,9 +3,9 @@ entries:
   csrv:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-05T17:06:06.162210638-04:00"
+    created: "2020-08-05T17:21:40.250504027-04:00"
     description: A Helm chart for Kubernetes
-    digest: f18f3898238519c3325aa6fdfd4b08c635eb00ce49c042ab60d9989c74d37af1
+    digest: b49716e198df23aed7ada1e05be0a766aa40a5a5574adf19006aa5612dabe18e
     name: csrv
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-05T17:06:06.161599277-04:00"
+    created: "2020-08-05T17:21:40.249839565-04:00"
     description: A Helm chart for Kubernetes
     digest: 2b878a09ce08536b75c2d7a2e67f5e38e2944920834cf427c3e1b60ff4195c0e
     name: csrv
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://tonyiams.github.io/cbuild-helm/csrv-0.3.0.tgz
     version: 0.3.0
-generated: "2020-08-05T17:06:06.160649578-04:00"
+generated: "2020-08-05T17:21:40.248955136-04:00"
