@@ -3,7 +3,7 @@ entries:
   csrv:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-08T11:27:29.258772622-04:00"
+    created: "2020-08-08T12:27:47.148912228-04:00"
     description: A Helm chart for Kubernetes
     digest: 6bdc2b7c3582b355d74a7651c5e568d51a6bb906d8e076a88bc15e53ea59ada0
     name: csrv
@@ -13,7 +13,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-08T11:27:29.257970606-04:00"
+    created: "2020-08-08T12:27:47.148282666-04:00"
     description: A Helm chart for Kubernetes
     digest: 2b3d19f26cd8afe1fc1973bf14c6063bb93624c69b4ca2a6fb069a63640eda70
     name: csrv
@@ -23,7 +23,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-08T11:27:29.257300607-04:00"
+    created: "2020-08-08T12:27:47.147648058-04:00"
     description: A Helm chart for Kubernetes
     digest: 26baf93b19be24a00f48d4616bae66ed7e0c8c263b686c71d83ba1d491e6268b
     name: csrv
@@ -33,7 +33,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-08T11:27:29.256528945-04:00"
+    created: "2020-08-08T12:27:47.146866222-04:00"
     description: A Helm chart for Kubernetes
     digest: 06c2454681bec2e1c1d9edff37d3b2bae17bc2e47c64ec5def632806b11c643c
     name: csrv
@@ -43,7 +43,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-08T11:27:29.255280017-04:00"
+    created: "2020-08-08T12:27:47.146235491-04:00"
     description: A Helm chart for Kubernetes
     digest: b49716e198df23aed7ada1e05be0a766aa40a5a5574adf19006aa5612dabe18e
     name: csrv
@@ -51,4 +51,15 @@ entries:
     urls:
     - https://tonyiams.github.io/cbuild-helm/csrv-0.4.0.tgz
     version: 0.4.0
-generated: "2020-08-08T11:27:29.253657666-04:00"
+  csrv-mk:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-08-08T12:27:47.149807906-04:00"
+    description: A Helm chart for Kubernetes
+    digest: f6f78c214ec1ef91ca01c8037629c7585a92bd2f627f192d5433e13c5f19af08
+    name: csrv-mk
+    type: application
+    urls:
+    - https://tonyiams.github.io/cbuild-helm/csrv-mk-0.8.0.tgz
+    version: 0.8.0
+generated: "2020-08-08T12:27:47.145394859-04:00"
