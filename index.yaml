@@ -1,3 +1,25 @@
 apiVersion: v1
-entries: {}
-generated: "2021-01-25T20:04:35.32680027-05:00"
+entries:
+  csrv-eks:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-25T20:07:02.582418987-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 5831193bc3497c3c7980dc4bf329eeeb74c93aecb4b0d518e76037438fddeecc
+    name: csrv-eks
+    type: application
+    urls:
+    - https://tonyiams.github.io/cbuild-helm/csrv-eks-0.1.0.tgz
+    version: 0.1.0
+  csrv-mk:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-25T20:07:02.583419704-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 4e926ab6877be749974f2bfa85b09a393d07a858852053b83fb07b8b645098fa
+    name: csrv-mk
+    type: application
+    urls:
+    - https://tonyiams.github.io/cbuild-helm/csrv-mk-0.8.0.tgz
+    version: 0.8.0
+generated: "2021-01-25T20:07:02.580805811-05:00"
